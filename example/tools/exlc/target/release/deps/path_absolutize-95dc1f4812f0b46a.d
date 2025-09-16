@@ -1,0 +1,10 @@
+/Users/emersonx/Downloads/exline-hello/tools/exlc/target/release/deps/path_absolutize-95dc1f4812f0b46a.d: /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/path-absolutize-3.1.1/src/lib.rs /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/path-absolutize-3.1.1/src/absolutize.rs /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/path-absolutize-3.1.1/src/macros.rs /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/path-absolutize-3.1.1/src/unix.rs
+
+/Users/emersonx/Downloads/exline-hello/tools/exlc/target/release/deps/libpath_absolutize-95dc1f4812f0b46a.rlib: /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/path-absolutize-3.1.1/src/lib.rs /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/path-absolutize-3.1.1/src/absolutize.rs /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/path-absolutize-3.1.1/src/macros.rs /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/path-absolutize-3.1.1/src/unix.rs
+
+/Users/emersonx/Downloads/exline-hello/tools/exlc/target/release/deps/libpath_absolutize-95dc1f4812f0b46a.rmeta: /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/path-absolutize-3.1.1/src/lib.rs /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/path-absolutize-3.1.1/src/absolutize.rs /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/path-absolutize-3.1.1/src/macros.rs /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/path-absolutize-3.1.1/src/unix.rs
+
+/Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/path-absolutize-3.1.1/src/lib.rs:
+/Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/path-absolutize-3.1.1/src/absolutize.rs:
+/Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/path-absolutize-3.1.1/src/macros.rs:
+/Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/path-absolutize-3.1.1/src/unix.rs:

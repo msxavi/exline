@@ -1,0 +1,8 @@
+[package]
+name = "hello"
+version = "0.1.0"
+edition = "2025"
+
+[build]
+# Placeholder for future backend options
+# backend = "llvm"

@@ -1,0 +1,14 @@
+/Users/emersonx/Downloads/exline-hello/tools/exlc/target/release/deps/serde-bf2041829356b2d5.d: /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/lib.rs /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/integer128.rs /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/mod.rs /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/de.rs /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/ser.rs /Users/emersonx/Downloads/exline-hello/tools/exlc/target/release/build/serde-1a9db2283ab7eb80/out/private.rs
+
+/Users/emersonx/Downloads/exline-hello/tools/exlc/target/release/deps/libserde-bf2041829356b2d5.rlib: /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/lib.rs /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/integer128.rs /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/mod.rs /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/de.rs /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/ser.rs /Users/emersonx/Downloads/exline-hello/tools/exlc/target/release/build/serde-1a9db2283ab7eb80/out/private.rs
+
+/Users/emersonx/Downloads/exline-hello/tools/exlc/target/release/deps/libserde-bf2041829356b2d5.rmeta: /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/lib.rs /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/integer128.rs /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/mod.rs /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/de.rs /Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/ser.rs /Users/emersonx/Downloads/exline-hello/tools/exlc/target/release/build/serde-1a9db2283ab7eb80/out/private.rs
+
+/Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/lib.rs:
+/Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/integer128.rs:
+/Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/mod.rs:
+/Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/de.rs:
+/Users/emersonx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/ser.rs:
+/Users/emersonx/Downloads/exline-hello/tools/exlc/target/release/build/serde-1a9db2283ab7eb80/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/emersonx/Downloads/exline-hello/tools/exlc/target/release/build/serde-1a9db2283ab7eb80/out

@@ -1,0 +1,5 @@
+# src/main.exl
+def main
+  name = "Exline"
+  print "Hello, #{name}!"
+end
