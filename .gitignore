@@ -1,0 +1,90 @@
+# Rust build artifacts
+/target/
+
+# Rust compilation cache and metadata
+**/*.rs.bk
+*.pdb
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Exline interpreter temp files
+*.exl.tmp
+*.exl.bak
+
+# Distribution and build artifacts
+/dist/
+/build/
+*.zip
+*.tar.gz
+*.deb
+*.rpm
+
+# Test output files
+test_output/
+*.test.log
+
+# Backup files
+*.backup.*
+*~
+
+# Local configuration
+.env
+.env.local
+
+# Coverage reports
+/coverage/
+*.lcov
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+.temp/
+
+# Package manager files (if using other tools)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Documentation build artifacts
+/docs/build/
+/docs/site/
+
+# Profiling data
+*.prof
+perf.data*
+
+# Core dumps
+core.*
+vgcore.*
+
+# Binary artifacts that might be generated during testing
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Ignore any local installer test directories
+test_install/
+install_test/
+portable_test/

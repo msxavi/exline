@@ -1,0 +1,12 @@
+class Person
+    String name
+    Int age
+
+    def greet() : String
+      "Hello there!"
+    end
+end
+
+p = Person.new()
+result = p.greet()
+print(result)

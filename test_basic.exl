@@ -1,0 +1,3 @@
+Int n1 = 3
+Int n2 = 2
+print(10 / n2)

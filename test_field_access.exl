@@ -1,0 +1,7 @@
+class Person
+    String name
+    Int age
+end
+
+p = Person.new()
+print(p.name)

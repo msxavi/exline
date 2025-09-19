@@ -1,0 +1,29 @@
+# Exline v0.1.0 - Comprehensive Test
+
+# Basic variables and arithmetic
+Int n1 = 1
+Int n2 = 1
+print(n1 + n2)
+
+# String variables
+String greeting = "Hello"
+print(greeting)
+
+# Function definition with parameters and return type
+def execute(name: String) -> String
+  if name == "Exline"
+    "Hello world, #{name}!"
+  else
+    "Hello Stranger!"
+  end
+end
+
+# Function calls
+print(execute("Exline"))
+print(execute("Unknown"))
+
+# More arithmetic
+Int a = 10
+Int b = 5
+print(a * b)
+print(a - b)

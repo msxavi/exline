@@ -1,0 +1,9 @@
+def execute(name: String) -> String
+  if name == "Exline"
+    "Hello world, #{name}!"
+  else
+    "Hello Stranger!"
+  end
+end
+
+print(execute("Exline"))

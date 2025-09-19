@@ -1,0 +1,27 @@
+# Test to demonstrate = vs == operators
+
+# Assignment uses =
+Int x = 42
+String name = "Exline"
+
+# Comparison uses ==
+def check_value(value: Int) -> String
+  if value == 42
+    "The answer to everything!"
+  else
+    "Just a number"
+  end
+end
+
+def check_name(name: String) -> String
+  if name == "Exline"
+    "Hello, Exline!"
+  else
+    "Hello, stranger!"
+  end
+end
+
+print(check_value(42))
+print(check_value(24))
+print(check_name("Exline"))
+print(check_name("Other"))

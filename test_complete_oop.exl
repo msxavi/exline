@@ -1,0 +1,32 @@
+interface Greetable
+    def greet() : String
+end
+
+class Person implements Greetable
+    String name
+    Int age
+
+    def greet() : void
+        print("Hello from Person!")
+    end
+
+    def info() : void
+        print("Person object created")
+    end
+end
+
+class Host implements Greetable
+  def greet() : void
+    print("Hello from Host!")
+  end
+end
+
+p = Person.new()
+h = Host.new()
+h.greet()
+p.greet()
+p.info()
+print("Name field:")
+print(p.name)
+print("Object:")
+print(p)

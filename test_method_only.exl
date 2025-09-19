@@ -1,0 +1,9 @@
+class Person
+    def greet() : String
+        return "Hello there!"
+    end
+end
+
+p = Person.new()
+result = p.greet()
+print(result)

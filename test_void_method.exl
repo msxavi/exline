@@ -1,0 +1,8 @@
+class Person
+    def greet() : void
+        print("Hello there!")
+    end
+end
+
+Person p = Person.new()
+p.greet()
